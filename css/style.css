@@ -89,13 +89,12 @@ article:nth-of-type(4) img {
     flex-flow: column wrap;
     align-items: flex-start;
     height: 870px;
-    width: 33%;
+    width: 33vw;
     margin: 0 auto;
 } 
 /* section images img */
 .images img {
     width: 300px; 
-    height: auto;
     margin: 3px;
     flex: auto;
 }
